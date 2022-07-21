@@ -39,16 +39,16 @@ Check out [Bootstrap Height Documentation](https://mdbootstrap.com/docs/standard
 ## More examples
 
 [Bootstrap Height 100vh:
-![Bootstrap 5 Overlay](/assets/100vh.png)](https://mdbootstrap.com/docs/standard/extended/height#section-height-100vh)
+![Bootstrap 5 Height](/assets/100vh.png)](https://mdbootstrap.com/docs/standard/extended/height#section-height-100vh)
 
 [Bootstrap Textarea height:
-![Bootstrap 5 Overlay](/assets/textarea.png)](https://mdbootstrap.com/docs/standard/extended/height#section-textarea-height)
+![Bootstrap 5 Height](/assets/textarea.png)](https://mdbootstrap.com/docs/standard/extended/height#section-textarea-height)
 
 [Bootstrap Line height:
-![Bootstrap 5 Overlay](/assets/line.png)](https://mdbootstrap.com/docs/standard/extended/height#section-line-height)
+![Bootstrap 5 Height](/assets/line.png)](https://mdbootstrap.com/docs/standard/extended/height#section-line-height)
 
 [Bootstrap Modal height:
-![Bootstrap 5 Overlay](/assets/modal.png)](https://mdbootstrap.com/docs/standard/extended/height#section-modal-height)
+![Bootstrap 5 Height](/assets/modal.png)](https://mdbootstrap.com/docs/standard/extended/height#section-modal-height)
 
 ___
 
