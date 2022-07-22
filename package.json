@@ -1,0 +1,29 @@
+{
+  "name": "bootstrap-height",
+  "version": "1.0.0",
+  "description": "Responsive Height built with Bootstrap 5. Examples of sizing, modal height, textarea height, line height & more.",
+  "main": "basic.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/bootstrap-height.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "bootrap5",
+    "bootstrap-theme",
+    "bootstrap-template",
+    "reponsive",
+    "responsive-design",
+    "height",
+    "sizing"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/bootstrap-height/issues"
+  },
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/height/"
+}
